@@ -1,2 +1,2 @@
 # HR-Data
-Arepo documenting attrition analysis of employees.
+A repository documenting attrition analysis of employees.
