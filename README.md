@@ -46,6 +46,7 @@ The dataset includes the following key fields:
 - **Sales Department**:The total no of employess in the sales department was reduced from a sum of 446 employess to 354 and the attriton rate was calculated to be 0.92.
 - **R&D Department**:The total no of employess in the sales department was reduced from a sum of 961 employess to 828 and the attriton rate was calculated to be 1.33.
 - **HR Department**:The total no of employess in the sales department was reduced from a sum of 63 employess to 51 and the attriton rate was calculated to be 0.12.
+
 This implies that the department with the highest attrition rate is the R&D Department.
 
    
