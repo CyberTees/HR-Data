@@ -27,7 +27,45 @@ The dataset includes the following key fields:
 - **Years in Current Role**: Number of years in their current job role.
 - **Job satisfaction**
 - **Environment satisfaction**
-- **Distance from Home**
+
+ ### 3. Exploratory Data Analysis
+### 1. **Attrition by Department**
+   - **Dataset**: Department, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Shows the attrition rate for each department, helping to identify departments with higher turnover rates.
+   
+### 2. **Attrition by Job Role**
+   - **Fields**: Job Role, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Displays attrition rates by specific job roles to pinpoint which roles experience the most turnover.
+
+### 3. **Attrition by Job Level**
+   - **Fields**: Job Level, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Identifies turnover rates by job level, useful for understanding if senior-level or junior-level employees are more likely to leave.
+
+### 4. **Attrition by Education Field**
+   - **Fields**: Education Field, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Provides insights into which education backgrounds are more common among those who leave the company.
+
+### 5. **Attrition by Marital Status**
+   - **Fields**: Marital Status, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Shows attrition rates segmented by marital status, potentially useful in understanding work-life balance issues affecting retention.
+
+### 6. **Attrition by Monthly Income**
+   - **Fields**: Monthly Income, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Displays income ranges with the highest attrition rates, providing insights into any correlation between salary levels and turnover.
+
+### 7. **Attrition by Years at Company**
+   - **Fields**: Years at Company, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Analyzes how tenure influences attrition, showing if newer employees or long-term employees are more likely to leave.
+
+### 8. **Attrition by Distance from Home**
+   - **Fields**: Distance from Home, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Examines if the distance employees live from work correlates with higher attrition rates.
+
+### 9. **Attrition by Job Satisfaction Level**
+   - **Fields**: Job Satisfaction, Attrition (Yes/No), Count of Employees, Attrition Rate
+   - **Description**: Highlights the attrition rates based on job satisfaction scores, helping to understand if job satisfaction impacts turnover.
+
+
 
 This data helps identify high-risk groups and the reasons behind employee exits.
 
